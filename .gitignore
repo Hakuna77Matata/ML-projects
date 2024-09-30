@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-README.md
+README_local.md
 
 
 # C extensions
